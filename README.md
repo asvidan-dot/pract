@@ -22,12 +22,4 @@
 | **Square Root** | Binary Search | $O(\log x)$ | $O(1)$ |
 | **Trailing Zeroes** | Формула Лежандра | $O(\log_5 n)$ | $O(1)$ |
 
----
-
-## 🚀 Як запустити проєкт
-
-### 1. Запуск основної демонстрації:
-```bash
-python main.py
-
 https://drive.google.com/file/d/1LKZur2A02Vi94eJ-yRQGroXIqqmP3kDJ/view?usp=sharing
